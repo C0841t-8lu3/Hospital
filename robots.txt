@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://c0841t-8lu3.github.io/Hospital/sitemap.xml
